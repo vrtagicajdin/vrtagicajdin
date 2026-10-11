@@ -1,6 +1,6 @@
-# Hi, I'm vrtagicajdin 👋
+# Hi, I'm Ajdin 👋
 
-I build full-stack web and mobile applications, with a focus on practical products and real-time experiences.
+I'm currently studying Frontend Development at ITAcademy, where I'm developing my skills in building responsive, user-friendly web experiences with JavaScript and React.
 
 ## Current project
 
@@ -9,9 +9,9 @@ A real-time messaging app with voice and video calling, built with React, Node.j
 
 ## Technologies
 
-- **Frontend:** React, JavaScript
+- **Frontend:** JavaScript, React
 - **Backend:** Node.js, Express, Socket.IO
 - **Data:** PostgreSQL, Supabase
 - **Mobile:** Capacitor, Android
 
-I’m interested in building useful products, improving reliability, and learning through hands-on projects.
+I enjoy learning by building practical projects and improving them through iteration.
