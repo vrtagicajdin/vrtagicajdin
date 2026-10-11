@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm vrtagicajdin 👋
 
-<!--
-**vrtagicajdin/vrtagicajdin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build full-stack web and mobile applications, with a focus on practical products and real-time experiences.
 
-Here are some ideas to get you started:
+## Current project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [WaveChat](https://wavechat.online)
+A real-time messaging app with voice and video calling, built with React, Node.js, Socket.IO, PostgreSQL, and Capacitor for Android.
+
+## Technologies
+
+- **Frontend:** React, JavaScript
+- **Backend:** Node.js, Express, Socket.IO
+- **Data:** PostgreSQL, Supabase
+- **Mobile:** Capacitor, Android
+
+I’m interested in building useful products, improving reliability, and learning through hands-on projects.
